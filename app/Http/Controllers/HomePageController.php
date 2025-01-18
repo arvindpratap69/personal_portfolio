@@ -72,4 +72,11 @@ class HomePageController extends Controller
 
         return view('skills', $data);
     }
+    public function downloadCV()
+    {
+        $filePath = public_path('files/arvind-cv.pdf');
+        $headers = ['content-Type : application/pdf'];
+        $fileName = 'Arvind-Cv.pdf';
+        return response()->download($filePath, $fileName, $headers);
+    }
 }

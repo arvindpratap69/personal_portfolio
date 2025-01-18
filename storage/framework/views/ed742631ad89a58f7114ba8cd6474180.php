@@ -37,12 +37,10 @@
             <a href="<?php echo e(route('contact')); ?>" class="navbar-link" data-nav-link>Contact</a>
           </li>
 
-          <li>
-            <a href="<?php echo e(route('blog')); ?>" class="navbar-link" data-nav-link>Blog</a>
-          </li>
+          
 
           <li>
-            <a href="#" class="btn btn-primary">Download CV</a>
+            <a href="<?php echo e(route('download.cv')); ?>" class="btn btn-primary">Download CV</a>
           </li>
 
         </ul>

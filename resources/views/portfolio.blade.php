@@ -12,8 +12,7 @@
       <h2 class="h2 section-title">My Amazing Works</h2>
 
       <p class="section-text">
-        Dliquip ex ea commo do conse namber onequa ute irure dolor in reprehen derit in voluptate
-      </p>
+        Welcome to my blog space! Here, I share my passion for coding, my latest projects, and helpful guides on web development. Stay tuned for regular updates and fresh ideas!      </p>
 
       <ul class="portfolio-list">
         @if ($allPortfolio->isNotEmpty())

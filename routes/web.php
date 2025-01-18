@@ -33,6 +33,8 @@ Route::get('/contact', [HomePageController::class, 'contact'])->name('contact');
 Route::post('contact/store', [HomePageController::class, 'store'])->name('contact.store');
 Route::get('/blog', [HomePageController::class, 'blog'])->name('blog');
 Route::get('/skills', [HomePageController::class, 'skills'])->name('skills');
+Route::get('/download-cv/', [HomePageController::class, 'downloadCV'])->name('download.cv');
+
 
 
 

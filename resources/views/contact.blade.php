@@ -49,7 +49,7 @@
                 <h3 class="contact-item-title">Address</h3>
 
                 <address class="contact-item-link">
-                  20, London, United Kingdom
+                 570, Awas Vikas Colony , Fatehpur(UP)
                 </address>
               </div>
 
@@ -64,7 +64,7 @@
               <div>
                 <h3 class="contact-item-title">Email</h3>
 
-                <a href="mailto:hello@ethan.com" class="contact-item-link">hello@ethan.com</a>
+                <a href="mailto:hello@ethan.com" class="contact-item-link">arvindthakur6902@gmail.com</a>
               </div>
 
             </li>
@@ -78,7 +78,7 @@
               <div>
                 <h3 class="contact-item-title">Phone</h3>
 
-                <a href="tel:+1234567890" class="contact-item-link">+123 456 7890</a>
+                <a href="tel:+1234567890" class="contact-item-link">+91 7275058538</a>
               </div>
 
             </li>

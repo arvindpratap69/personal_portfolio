@@ -37,12 +37,12 @@
             <a href="{{ route('contact') }}" class="navbar-link" data-nav-link>Contact</a>
           </li>
 
-          <li>
+          {{-- <li>
             <a href="{{ route('blog') }}" class="navbar-link" data-nav-link>Blog</a>
-          </li>
+          </li> --}}
 
           <li>
-            <a href="#" class="btn btn-primary">Download CV</a>
+            <a href="{{ route('download.cv') }}" class="btn btn-primary">Download CV</a>
           </li>
 
         </ul>
